@@ -274,7 +274,7 @@ public abstract class FileHandler {
 	
 	/**
 	 * Add a "\" or a "/" (environment dependently) at the end of folder-path
-	 * @param path
+	 * @param folderPath
 	 * @return
 	 */
 	public static String guaranteePathSeparatorAtEndOf(String folderPath){

@@ -4,7 +4,7 @@
 
   <groupId>hu.barbar.util</groupId>
   <artifactId>filehandler</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.3</version>
   <packaging>jar</packaging>
 
   <name>FileHandler</name>
@@ -29,6 +29,8 @@
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-javadoc-plugin</artifactId>
         <version>2.10.4</version>
+
+
         <configuration>
           <show>private</show>
           <nohelp>true</nohelp>
